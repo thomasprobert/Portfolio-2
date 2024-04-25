@@ -1,9 +1,15 @@
-.question1{
+body{
+    text-align: center;
     background-color: beige;
 }
 
-.image {
-    align-content: center;
+.image  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 271px;
+    width: 220px
+
 }
 
 .button {
